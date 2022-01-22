@@ -1,0 +1,54 @@
+/* License information: https://adriannewu.com/fonts/CormorantGaramond-OFL.txt */
+@font-face {
+	font-family: 'CormorantGaramond';
+	src: url('fonts/CormorantGaramond-SemiBoldItalic.woff2') format('woff2'),
+			 url('fonts/CormorantGaramond-SemiBoldItalic.woff') format('woff');
+	font-weight: bold;
+	font-style: italic;
+}
+
+/* License information: https://adriannewu.com/fonts/Baskervville-OFL.txt */
+@font-face {
+	font-family: 'Baskervville';
+	src: url('fonts/Baskervville-Regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+
+header {
+	font-family: 'CormorantGaramond', serif;
+	font-size: calc(25px + 2.5vw);
+	font-style: italic;
+	font-weight: bold;
+	margin-bottom: 1.5%;
+}
+
+body {
+	font-family: 'Baskervville', serif;
+	font-size: calc(10px + 1vw);
+	background-color: #010101;
+	color: #f7f7f7;
+	margin: 0;
+}
+
+body a {
+	color: #909090!important;
+	text-decoration: none!important;
+	transition: 0.75s;
+}
+
+a:hover {
+	color: #b7b7b7!important;
+	text-decoration: none!important;
+	border-bottom: 1px solid #b7b7b7;
+	transition: 0.75s;
+}
+
+.center {
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	height: 100vh;
+	text-align: center;
+}
