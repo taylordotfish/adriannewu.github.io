@@ -9,7 +9,7 @@ This is the repository of my personal site.
 ## License
 
 This work is licensed under the
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]. (Note that the ASCII art is licensed under a [different, incompatible license](https://www.geocities.ws/SoHo/7373/please.html).)
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
