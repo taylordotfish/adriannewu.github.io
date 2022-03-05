@@ -21,7 +21,7 @@
     	.logo svg {
 				height: 235;
 				width: 107;
-				fill: white;
+				fill: #f7f7f7;
 			}
 
 			.logo.on {
@@ -37,6 +37,9 @@
 				animation: 25s linear infinite rainbow-bg;
 			}
 
+			body:target {
+        background-color: #000000;
+      }
 			body:target .logo.off {
 				display: none;
 			}
