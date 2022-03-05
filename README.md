@@ -4,7 +4,7 @@ This is the repository of my personal site.
 - [Rainbow animation](https://backtick.town/#1) by backtick.town
 - [Cormorant typeface](https://github.com/CatharsisFonts/Cormorant) by Christian Thalmann
 - [Proza Libre typeface](https://github.com/jasperdewaard/Proza-Libre) by Jasper de Waard
-- [ASCII art on my 404 page](https://www.geocities.ws/SoHo/7373/pets.html) by Joan G. Stark
+- [ASCII art on 404 page](https://www.geocities.ws/SoHo/7373/pets.html) by Joan G. Stark
 
 ## License
 
