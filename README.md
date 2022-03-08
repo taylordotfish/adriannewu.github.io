@@ -9,4 +9,10 @@ This is the repository of my personal site.
 ## License
 
 This work is licensed under the
-[Creative Commons Attribution-ShareAlike 4.0 International License][http://creativecommons.org/licenses/by-sa/4.0/]. (Note that the [ASCII art](https://www.geocities.ws/SoHo/7373/please.html) and [both](https://adriannewu.com/fonts/Cormorant-OFL.txt) [typefaces](https://adriannewu.com/fonts/ProzaLibre-OFL.txt) are licensed under different, incompatible licenses.)
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]. (Note that the [ASCII art](https://www.geocities.ws/SoHo/7373/please.html) and [both](https://adriannewu.com/fonts/Cormorant-OFL.txt) [typefaces](https://adriannewu.com/fonts/ProzaLibre-OFL.txt) are licensed under different, incompatible licenses.)
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
