@@ -18,6 +18,6 @@ This work is licensed under the
 
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 
----
+
 
 *Last updated 2022-10-25.*
