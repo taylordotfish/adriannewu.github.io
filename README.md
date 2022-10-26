@@ -2,6 +2,7 @@
 This is the repository of my personal site.
 
 - [Rainbow animation](https://backtick.town/#1) by backtick.town
+- [Baskervville font family](https://github.com/anrt-type/ANRT-Baskervville) by ANRT students
 - [Cormorant typeface](https://github.com/CatharsisFonts/Cormorant) by Christian Thalmann
 - [Proza Libre typeface](https://github.com/jasperdewaard/Proza-Libre) by Jasper de Waard
 - [ASCII art on 404 page](https://www.geocities.ws/SoHo/7373/pets.html) by Joan G. Stark
@@ -16,3 +17,5 @@ This work is licensed under the
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+
+*Last updated 2022-10-25.*
