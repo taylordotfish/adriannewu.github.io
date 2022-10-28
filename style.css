@@ -36,14 +36,14 @@
 
 @font-face {
 	font-family: 'ProzaLibre';
-	src: url('cormorant/fonts/ProzaLibre-Regular.woff') format('woff');
+	src: url('prozalibre/fonts/ProzaLibre-Regular.woff') format('woff');
 	font-weight: 400;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'ProzaLibre';
-	src: url('fonts/ProzaLibre-Italic.woff') format('woff');
+	src: url('prozalibre/fonts/ProzaLibre-Italic.woff') format('woff');
 	font-weight: 400;
 	font-style: italic;
 }
