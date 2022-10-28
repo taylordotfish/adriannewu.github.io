@@ -2,65 +2,77 @@
 
 @font-face {
 	font-family: 'Cormorant';
-	src: url('fonts/Cormorant-Regular.woff2') format('woff2'),
-			 url('fonts/Cormorant-Regular.woff') format('woff');
-	font-weight: 400;
 	font-style: normal;
-}
-
-@font-face {
-	font-family: 'Cormorant';
-	src: url('fonts/Cormorant-Italic.woff2') format('woff2'),
-			 url('fonts/Cormorant-Italic.woff') format('woff');
 	font-weight: 400;
-	font-style: italic;
+	src: url('fonts/cormorant/Cormorant-Regular.woff2') format('woff2'),
+	     url('fonts/cormorant/Cormorant-Regular.woff') format('woff');
+	font-display: swap;
 }
 
 @font-face {
 	font-family: 'Cormorant';
-	src: url('fonts/Cormorant-Bold.woff2') format('woff2'),
-			 url('fonts/Cormorant-Bold.woff') format('woff');
-	font-weight: 700;
+	font-style: italic;
+	font-weight: 400;
+	src: url('fonts/cormorant/Cormorant-Italic.woff2') format('woff2'),
+	     url('fonts/cormorant/Cormorant-Italic.woff') format('woff');
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Cormorant';
 	font-style: normal;
+	font-weight: 700;
+	src: url('fonts/cormorant/Cormorant-Bold.woff2') format('woff2'),
+	     url('fonts/cormorant/Cormorant-Bold.woff') format('woff');
+	font-display: swap;
 }
 
 @font-face {
 	font-family: 'Cormorant';
-	src: url('fonts/Cormorant-BoldItalic.woff2') format('woff2'),
-			 url('fonts/Cormorant-BoldItalic.woff') format('woff');
-	font-weight: 700;
 	font-style: italic;
+	font-weight: 700;
+	src: url('fonts/cormorant/Cormorant-BoldItalic.woff2') format('woff2'),
+	     url('fonts/cormorant/Cormorant-BoldItalic.woff') format('woff');
+	font-display: swap;
 }
 
 /* License information: https://adriannewu.com/fonts/ProzaLibre-OFL.txt */
 
 @font-face {
 	font-family: 'ProzaLibre';
-	src: url('fonts/ProzaLibre-Regular.woff') format('woff');
-	font-weight: 400;
 	font-style: normal;
-}
-
-@font-face {
-	font-family: 'ProzaLibre';
-	src: url('fonts/ProzaLibre-Italic.woff') format('woff');
 	font-weight: 400;
+	src: url('fonts/prozalibre/ProzaLibre-Regular.woff') format('woff');
+	font-display: swap;
+}
+
+/*
+
+@font-face {
+	font-family: 'ProzaLibre';
 	font-style: italic;
+	font-weight: 400;
+	src: url('fonts/prozalibre/ProzaLibre-Italic.woff') format('woff');
+	font-display: swap;
 }
 
 @font-face {
 	font-family: 'ProzaLibre';
-	src: url('fonts/ProzaLibre-Bold.woff') format('woff');
-	font-weight: 700;
 	font-style: normal;
+	font-weight: 700;
+	src: url('fonts/prozalibre/ProzaLibre-Bold.woff') format('woff');
+	font-display: swap;
 }
 
 @font-face {
 	font-family: 'ProzaLibre';
-	src: url('fonts/ProzaLibre-BoldItalic.woff') format('woff');
-	font-weight: 700;
 	font-style: italic;
+	font-weight: 700;
+	src: url('fonts/prozalibre/ProzaLibre-BoldItalic.woff') format('woff');
+	font-display: swap;
 }
+
+*/
 
 header {
 	font-family: 'Cormorant', serif;
