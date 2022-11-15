@@ -78,6 +78,8 @@ h1 {
   font-family: 'Cormorant', serif;
   font-size: calc(20px + 2.5vw);
   font-weight: 700;
+  margin-top: 0px;
+  margin-bottom: -5px;
 }
 
 body {
